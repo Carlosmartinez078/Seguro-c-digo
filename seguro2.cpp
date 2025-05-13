@@ -121,6 +121,6 @@ int main(){
         break;
 
     }
-    
+    cout
     return 0;
 }
